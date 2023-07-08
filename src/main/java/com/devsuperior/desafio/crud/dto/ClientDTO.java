@@ -3,7 +3,6 @@ package com.devsuperior.desafio.crud.dto;
 import com.devsuperior.desafio.crud.entities.Client;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.PastOrPresent;
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
